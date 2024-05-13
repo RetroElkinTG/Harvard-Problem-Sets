@@ -1,0 +1,21 @@
+I would do:
+
+SELECT AVG(energy)
+FROM songs +
+
+SELECT AVG(valence)
+FROM songs +
+
+SELECT AVG(danceability)
+FROM songs;
+
+/ 3
+
+This calculates the average between the three averages,
+ultimately determining a person's audio aura.
+
+However, this may not be representative of the listener
+because the meaning behind a song also adds to the listener's
+enjoyment of songs. A better way of calculating this aura is to instead
+get listeners to rate each other's audio aura to see which aura most
+encapsulates the aura of other listeners!

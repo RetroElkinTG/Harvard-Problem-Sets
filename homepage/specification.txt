@@ -1,0 +1,17 @@
+<meta> Makes it viewable on mobile and pc
+<a> Creates links
+<link> adds frameworks to make the site better
+<script> adds functionality to the website
+<img> adds images to the website
+<li>
+<ol>
+<ul>
+<form>
+<button>
+
+.centered
+.large
+.medium
+
+I used JS to add functionality to the buttons.
+I used Bootstrap to make the websites look prettier.
